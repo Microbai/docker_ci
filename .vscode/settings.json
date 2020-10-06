@@ -15,12 +15,12 @@
         }],
         "targets": [{
             "type": "sftp",
-            "name": "AliyunServer",
-            "dir": "/root/source/docker_ci",
-            "host": "47.98.252.43",
+            "name": "DOServer",
+            "dir": "/root/source/docker/docker_ci",
+            "host": "178.128.215.245",
             "port": 22,
             "user": "root",
-            "privateKey": "/Users/xia/.ssh/id_rsa"
+            "password": "swj482782698@"
         }],
     },
 }
