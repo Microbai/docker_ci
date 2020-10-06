@@ -70,7 +70,7 @@ class App extends Component {
         pagePath: "pages/home/home",
         iconPath: "./assets/home.png",
         selectedIconPath: "./assets/home-active.png",
-        text: "首页"
+        text: "首 页"
       },
       {
         pagePath: "pages/cart/cart",
