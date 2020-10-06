@@ -76,7 +76,7 @@ class App extends Component {
         pagePath: "pages/cart/cart",
         iconPath: "./assets/cart.png",
         selectedIconPath: "./assets/cart-active.png",
-        text: "购物车"
+        text: "购 物 车"
       },
 
       {
