@@ -83,7 +83,7 @@ class App extends Component {
         pagePath: "pages/user/user",
         iconPath: "./assets/user.png",
         selectedIconPath: "./assets/user-active.png",
-        text: "个人"
+        text: "个 人"
       }]
     }
   }
